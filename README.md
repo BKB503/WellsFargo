@@ -6,7 +6,7 @@ Application is developed in .Net 6 Web API with swagger documentation.
 Upload a transactions file in swagger ui and click execute button, it will return the compressed zip file with different OMS files
 
 # Prerequisites
-Visual Studio 2022
+Visual Studio 2022 and
 Install .Net 6 SDK
 
 # To run locally 
