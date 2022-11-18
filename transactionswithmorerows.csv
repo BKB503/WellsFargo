@@ -1,0 +1,10 @@
+SecurityId,PortfolioId,Nominal,OMS,TransactionType
+1,1,10,AAA,BUY
+2,2,20,BBB,SELL
+1,2,30,CCC,BUY
+1,1,40,AAA,BUY
+2,2,50,BBB,SELL
+1,2,60,CCC,BUY
+1,1,70,AAA,BUY
+2,2,80,BBB,SELL
+1,2,90,CCC,BUY
