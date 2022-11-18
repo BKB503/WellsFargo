@@ -3,7 +3,7 @@
 Application is to process the transactions file into various Order Management System (OMS) files based on the OMS Types
 
 Application is developed in .Net 6 Web API with swagger documentation. 
-Upload a transactions file in swagger ui and click execute button, it will return the compressed zip file with different OMS files
+Upload a transactions file in order management system download output api endpoint using swagger ui and click execute button, it will return the compressed zip file with different OMS files
 
 Sample Transactions File https://github.com/BKB503/WellsFargo/blob/main/transactionswithmorerows.csv
 
