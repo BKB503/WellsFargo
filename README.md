@@ -10,5 +10,7 @@ Visual Studio 2022 and
 Install .Net 6 SDK
 
 # To run locally 
-1) Use Visual Studio debug button, launches the swagger UI 
+1) Use Visual Studio debug button, launches the swagger UI or
 2) dotnet run and it will listen on the port 7133 or navigate to https://localhost:7133/swagger/index.html
+
+![Demo](https://user-images.githubusercontent.com/17712247/202760685-eeba59cd-53cc-460a-b048-a946eb85becb.gif)
